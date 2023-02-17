@@ -1,11 +1,10 @@
-<h5 class="mb-4">Classes Table</h5>
+<h5 class="mb-4">Alumn Grade</h5>
 <div class="col-lg-4 col-md-6">
     <div class="mt-3">
         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalTop">
             Create class
         </button>
-        <!-- Modal -->
-        <?php include 'assets/modals/Alumns/addAlumnsModal.php'; ?>
+        <?php include 'assets/modals/Classes/addClassesModal.php'; ?>
     </div>
 </div>
 <div class="table-responsive text-nowrap">

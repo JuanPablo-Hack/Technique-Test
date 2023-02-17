@@ -4,7 +4,6 @@
         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalTop">
             Create Alumn
         </button>
-        <!-- Modal -->
         <?php include 'assets/modals/Alumns/addAlumnsModal.php'; ?>
     </div>
 </div>
