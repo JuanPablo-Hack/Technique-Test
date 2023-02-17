@@ -65,12 +65,12 @@
 
             <ul class="menu-sub">
                 <li class="menu-item">
-                    <a href="layouts-without-menu.html" class="menu-link">
+                    <a href="index.php?view=1" class="menu-link">
                         <div data-i18n="Without menu">Alumns</div>
                     </a>
                 </li>
                 <li class="menu-item">
-                    <a href="layouts-without-navbar.html" class="menu-link">
+                    <a href="index.php?view=2" class="menu-link">
                         <div data-i18n="Without navbar">Teachers</div>
                     </a>
                 </li>
@@ -82,13 +82,13 @@
         </li>
 
         <li class="menu-item">
-            <a href="cards-basic.html" class="menu-link">
+            <a href="index.php?view=3" class="menu-link">
                 <i class="menu-icon tf-icons bx bx-cube-alt"></i>
                 <div data-i18n="Basic">Clasess</div>
             </a>
         </li>
         <li class="menu-item">
-            <a href="cards-basic.html" class="menu-link">
+            <a href="index.php?view=4" class="menu-link">
                 <i class="menu-icon tf-icons bx bx-collection"></i>
                 <div data-i18n="Basic">Grades</div>
             </a>
